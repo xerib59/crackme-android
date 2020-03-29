@@ -1,0 +1,2 @@
+include ':app', ':crackme01'
+rootProject.name='CrackMe'
